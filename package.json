@@ -33,7 +33,7 @@
         "src"
     ],
     "dependencies": {
-        "ng-annotate": "^1.2.2"
+        "ng-annotate-patched": "^1.14.1"
     },
     "devDependencies": {
         "babel-core": "6.26.3",

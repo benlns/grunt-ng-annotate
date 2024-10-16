@@ -9,7 +9,7 @@
 'use strict';
 
 const path = require('path');
-const ngAnnotate = require('ng-annotate');
+const ngAnnotate = require('ng-annotate-patched');
 
 module.exports = function (grunt) {
     const getPathFromTo = (fromFile, toFile) =>

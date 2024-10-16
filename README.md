@@ -1,5 +1,11 @@
-# grunt-ng-annotate
+# grunt-ng-annotate (patched)
 
+## Fork details
+Since ng-annotate is no longer maintained, the fork [ng-annotate-patched](https://github.com/bluetech/ng-annotate-patched) is now used.
+
+
+
+## Original details
 > Add, remove and rebuild AngularJS dependency injection annotations. Based on [ng-annotate](https://www.npmjs.org/package/ng-annotate).
 
 **NOTE: `grunt-ng-annotate` is no longer developed similarly to the underlying [ng-annotate](https://www.npmjs.com/package/ng-annotate) package. Switch to [babel-plugin-angularjs-annotate](https://www.npmjs.com/package/babel-plugin-angularjs-annotate) or provide annotations by yourself.**
